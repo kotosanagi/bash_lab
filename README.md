@@ -1,5 +1,8 @@
 # bash_lab
 
+Let's inspect the behavior of bash inside this container.
+
+
 ### USAGE
 
 You can build image and go into container by this command.  
