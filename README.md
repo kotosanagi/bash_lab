@@ -1,6 +1,6 @@
 # bash_lab
 
-Let's inspect the behavior of bash inside this container.
+Let's inspect the behavior of bash inside this container!
 
 
 ### USAGE
